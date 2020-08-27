@@ -11,7 +11,7 @@
 #include <CL/opencl.h>
 #include <CL/cl_ext.h>
 
-#define N 128
+#define N 256
 #define M 2048
 
 const short GAP_i = -1;
